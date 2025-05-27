@@ -5,8 +5,8 @@ O sistema permite o cadastro de pacientes, agendamento de consultas e visualiza�
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Python 3.x  
-- Django 4.x  
+- Python 3.12  
+- Django 5.2  
 - SQLite (banco de dados padrão do Django)  
 - HTML5 e CSS3  
 
